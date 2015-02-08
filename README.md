@@ -30,7 +30,7 @@ After completing this assignment, you be able to effectively use
 
 ### Requirements
 
-* Don't spend more than 30 seconds on each topic
+* Don't spend more than 30 - 60 seconds on each topic
 
 
 ## Normal Mode
