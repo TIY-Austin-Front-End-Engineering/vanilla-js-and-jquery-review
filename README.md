@@ -41,6 +41,12 @@ what a data literal is
 
 
 
+
+
+
+
+
+
 how to define a variable
 
 
@@ -99,7 +105,7 @@ how to evaluate more than two number variables and literals using mathematical o
 
 
 
- 
+
 how to append two string literals
 
 
