@@ -1,0 +1,13 @@
+{
+    "name": "vanilla-js-and-jquery-review",
+    "version": "0.0.1",
+    "title": "Vanilla JavaScript and jQuery Review",
+    "description": "Below is a list of JavaScript and jQuery skills that we have developed over the course thus far. Go through the list and demonstrate an example of your knowledge in each topic. NoNo one question should take you more than 30 seconds to complete.",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "review"
+    ]
+}
