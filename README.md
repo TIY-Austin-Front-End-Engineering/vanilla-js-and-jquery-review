@@ -135,15 +135,7 @@ how to evaluate more than two number variables using mathematical operators (Ple
 >-
 >-
 
-how to evaluate more than two number variables and literals using mathematical operators (Please Excuse My
-
->-
->-
->-
->-
->-
->-
- Dear Aunt Sally)
+how to evaluate more than two number variables and literals using mathematical operators (Please Excuse My Dear Aunt Sally)
 
 >-
 >-
