@@ -1109,12 +1109,17 @@ how to iterate over the result of a jQuery AJAX, get or post call
 
 how to create an HTML list from the result of a jQuery AJAX, get or post call
             
+>-
+>-
+>-
+>-
+>-
+>-
 
-
-## Notes
+<!-- ## Notes
 
 Notes go here...
 
 ## Additional Resources
 
-* Read []()
+* Read []() -->
